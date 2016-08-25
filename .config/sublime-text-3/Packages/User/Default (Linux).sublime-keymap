@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+d"], "command": "goto_definition" },
+	{ "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+shift+r"], "command": "refresh_folder_list" }
+]
